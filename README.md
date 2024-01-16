@@ -1,4 +1,12 @@
 ### Hi there 👋
+My name is Yixin Cai. I am a Computer Science & Business Administration (double degree) student at the University of Waterloo and Wilfrid Laurier University.
+I love exploring new areas and enjoying turning my imagination into reality through coding. I would like to get to know you, learn from each other and make good friends! 
+
+Please feel free to contact me ╭(○｀∀´○)╯╰(○'◡'○)╮
+
+**Instagram:** yixin7550
+
+[**LinkedIn**](https://www.linkedin.com/in/oliviayixincai/)
 
 <!--
 **oliviayixincai/oliviayixincai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
